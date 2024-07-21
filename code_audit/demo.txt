@@ -1,0 +1,6 @@
+0$C:/Users/Ricardo/text/aduit/code_aduit/test1.c$
+1#$include$$"test.h"$
+2$INT$$add$$($$INT$$a$,$INT$$b$$)$
+3${$
+4$RETURN$$a$+$b$
+5$}$

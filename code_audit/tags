@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/248cffc9/
+add	C:/Users/Ricardo/text/aduit/code_aduit/test1.c	/^int add(int a, int b)$/;"	f	line:2	typeref:typename:int
+input	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^    char input[100]; \/\/ Assuming a buffer size of 100 for input$/;"	l	line:9	function:main	typeref:typename:char[100]	file:
+main	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^    int main;$/;"	l	line:5	function:main	typeref:typename:int	file:
+main	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^int main() {$/;"	f	line:4	typeref:typename:int
+s	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^    char s[10] = "hello";$/;"	l	line:7	function:main	typeref:typename:char[10]	file:
+str	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^    char *str = s;$/;"	l	line:8	function:main	typeref:typename:char *	file:
+sum	C:/Users/Ricardo/text/aduit/code_aduit/test.c	/^    int sum;$/;"	l	line:6	function:main	typeref:typename:int	file:
